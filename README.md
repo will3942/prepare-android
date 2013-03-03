@@ -13,18 +13,18 @@ Usage
 Options
 --------
   
-*   -h      Show this message
-*   -r      Restore backup after recovery
-*   -s      Skip backup
+   -h      Show this message  
+   -r      Restore backup after recovery  
+   -s      Skip backup  
 
 COPYRIGHT
 --------
 
 All code in this script is Copyright Will Evans 2013.
 Contact me: 
-  [Twitter](http://twitter.com/will3942 "Twitter")
-  [Email](mailto:will@will3942.com "Email")
-  [App.net](http://alpha.app.net/willevans "App.net")
+  [Twitter](http://twitter.com/will3942 "Twitter")  
+  [Email](mailto:will@will3942.com "Email")  
+  [App.net](http://alpha.app.net/willevans "App.net")  
 
 LICENSE
 --------
